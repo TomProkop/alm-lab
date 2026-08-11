@@ -14,5 +14,7 @@
   "testProfile": "test",
   "appId": "ba435c7b-d509-4565-a804-e6c2adbc8f7e",
   "packageDeployerScaffolded": true,
-  "dataModelScaffolded": true
+  "dataModelScaffolded": true,
+  "pluginsScaffolded": true,
+  "logicSolutionScaffolded": true
 }
