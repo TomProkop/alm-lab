@@ -7,5 +7,9 @@
   "publisherPrefix": "almlab",
   "repo": "TomProkop/alm-lab",
   "mainRulesetId": 20701584,
-  "mainRulesetName": "alm-lab-main-protection"
+  "mainRulesetName": "alm-lab-main-protection",
+  "devEnvUrl": "https://wm-dev-3997.crm4.dynamics.com",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-3997.crm4.dynamics.com",
+  "testProfile": "test"
 }
