@@ -18,5 +18,8 @@
   "pluginsScaffolded": true,
   "logicSolutionScaffolded": true,
   "securityScaffolded": true,
-  "uiSolutionScaffolded": true
+  "uiSolutionScaffolded": true,
+  "configDataDirectory": "/workspaces/alm-lab/src/Packages.Main/Data",
+  "configDataSchemaPath": "/workspaces/alm-lab/src/Packages.Main/Data/data_schema.xml",
+  "configDataFilePath": "/workspaces/alm-lab/src/Packages.Main/Data/data.xml"
 }

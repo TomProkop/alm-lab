@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>almlab_warehousepicking</Name>
-  <AppVersion>2026-08-11T15:48:24Z</AppVersion>
+  <AppVersion>2026-08-11T16:00:27Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>0.0.0.0</CreatedByClientVersion>
   <MinClientVersion>0.0.0.0</MinClientVersion>
